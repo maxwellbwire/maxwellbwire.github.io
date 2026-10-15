@@ -35,8 +35,11 @@ Projects and Practical Work
 -Technical Documentation: Lab notes, troubleshooting procedures, and write-ups documenting my approach, findings, and lessons learned.
 
 CV and Contact
+
 -You can download my CV to learn more about my professional experience, technical skills, and cybersecurity training.
+
 -Download My CV (PDF){: .btn .btn-outline-primary }
+
 -LinkedIn: Connect with me
 -GitHub: View my projects
 
