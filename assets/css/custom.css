@@ -1,0 +1,39 @@
+
+/* Maxwell's navy and electric-blue portfolio */
+
+html[data-mode="dark"] {
+  --main-bg: #0b1120;
+  --sidebar-bg: #0b1120;
+  --card-bg: #151f35;
+  --text-color: #cbd5e1;
+  --heading-color: #f1f5f9;
+  --link-color: #60a5fa;
+  --link-underline-color: #3b82f6;
+  --main-border-color: #263550;
+  --sidebar-muted-color: #94a3b8;
+  --sidebar-active-color: #60a5fa;
+}
+
+html[data-mode="dark"] a:hover {
+  color: #93c5fd;
+}
+
+html[data-mode="dark"] .card-wrapper .card {
+  border-color: #263550;
+  border-radius: 12px;
+  transition: border-color 0.2s ease;
+}
+
+html[data-mode="dark"] .card-wrapper .card:hover {
+  border-color: #3b82f6;
+}
+
+html[data-mode="dark"] .btn-outline-primary {
+  border-color: #3b82f6;
+  color: #60a5fa;
+}
+
+html[data-mode="dark"] .btn-outline-primary:hover {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
