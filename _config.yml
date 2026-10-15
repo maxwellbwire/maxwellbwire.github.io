@@ -14,36 +14,39 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: "Maxwell Bwire Mwangi" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Technical Support | Network Troubleshooting | Ethical Hacker| Cybersecurity Analyst | Pentester | CTFs" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  IT and networking professional with 3+ years of hands-on experience in
+  network administration, ISP field engineering, and technical support.
+  Building practical cybersecurity skills in vulnerability assessment,
+  ethical hacking, network security, and security analysis through
+  hands-on labs and projects.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://maxwellbwire.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: maxwellbwire # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: maxwell_bwire # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Maxwell Bwire Mwangi
+  email: maxwellbwire7@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/maxwell_bwire # change to your Twitter homepage
+    - https://github.com/maxwellbwire # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/maxwell-bwire
 
 # Site Verification Settings
 webmaster_verifications:
