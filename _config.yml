@@ -18,12 +18,12 @@ title: "Maxwell Bwire Mwangi" # the main title
 
 tagline: "Technical Support | Network Troubleshooting | Ethical Hacker| Cybersecurity Analyst | Pentester | CTFs" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  IT and networking professional with 3+ years of hands-on experience in
-  network administration, ISP field engineering, and technical support.
-  Building practical cybersecurity skills in vulnerability assessment,
-  ethical hacking, network security, and security analysis through
-  hands-on labs and projects.
+description:  # used by seo meta and the atom feed
+  "IT and networking professional with 3+ years of hands-on experience in
+  network administration ISP field engineering and technical support
+  Building practical cybersecurity skills in vulnerability assessment
+  ethical hacking network security and security analysis through
+  hands-on labs and projects"
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://maxwellbwire.github.io"
