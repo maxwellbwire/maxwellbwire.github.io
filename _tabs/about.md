@@ -34,15 +34,6 @@ Projects and Practical Work
 
 -Technical Documentation: Lab notes, troubleshooting procedures, and write-ups documenting my approach, findings, and lessons learned.
 
-CV and Contact
-
--You can download my CV to learn more about my professional experience, technical skills, and cybersecurity training.
-
--[Download My CV (PDF)] (assets/Maxwell_Bwire_CV pdf){: .btn .btn-outline-primary }
-
--LinkedIn: Connect with me
--GitHub: View my projects
-
 Career Goals
 
 -My goal is to build on my infrastructure and support experience and progress into a cybersecurity role where I can help identify vulnerabilities, investigate security issues, assess risks, and improve system and network security.
