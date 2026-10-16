@@ -1,3 +1,4 @@
+
 ---
 ---
 
@@ -12,16 +13,11 @@
 {%- endif -%}
 ';
 
-/* Custom navy and electric-blue styles */
-html[data-bs-theme='dark'] {
-  --main-bg: #0b1120;
-  --sidebar-bg: #0b1120;
-  --card-bg: #151f35;
-  --text-color: #cbd5e1;
-  --heading-color: #f1f5f9;
-  --link-color: #60a5fa;
-  --link-underline-color: #3b82f6;
-  --main-border-color: #263550;
-  --sidebar-muted-color: #94a3b8;
-  --sidebar-active-color: #60a5fa;
+/* TEMPORARY STYLESHEET TEST */
+body {
+  background-color: #0b1120 !important;
+}
+
+a {
+  color: #60a5fa !important;
 }
