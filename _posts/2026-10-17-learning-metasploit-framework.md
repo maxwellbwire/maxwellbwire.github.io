@@ -6,14 +6,6 @@ tags: [metasploit, hack-the-box, penetration-testing, ethical-hacking]
 description: "My hands-on experience learning the Metasploit Framework through Hack The Box Academy labs."
 ---
 
----
-title: "Learning Metasploit: Hands-on Exploitation with HTB Academy"
-date: 2026-10-17 08:00:00 +0300
-categories: [Cybersecurity, Hands-on Labs]
-tags: [metasploit, hack-the-box, penetration-testing, ethical-hacking, vulnerability-assessment]
-description: "My experience learning the Metasploit Framework through practical HTB Academy labs, from module discovery and configuration to exploitation and session management."
----
-
 ## Introduction
 
 As I continue developing my cybersecurity skills, I recently worked through the **Using the Metasploit Framework** module on Hack The Box Academy. The goal was to understand how Metasploit can be used during penetration testing, from identifying relevant exploit modules to attempting exploitation and managing the access obtained.
