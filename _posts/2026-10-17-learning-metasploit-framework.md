@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Metasploit"
-date: 2026-10-17 08:00:00 +0300
+date: 2026-10-17
 categories: [Cybersecurity, Hands-on Labs]
 tags: [metasploit, hack-the-box, penetration-testing, ethical-hacking]
 description: "My hands-on experience learning Metasploit through HTB Academy."
