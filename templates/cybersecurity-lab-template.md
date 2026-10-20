@@ -77,9 +77,9 @@ This section documents my investigation in the order I completed it. For every i
 
 **Evidence:**
 
-![Description of evidence](../assets/img/cybersecurity-labs/[screenshot-filename.png])
+[Add a screenshot, terminal output, or other relevant evidence here when available.]
 
-*Figure 1: [Explain what the screenshot shows. Replace the path with a real image or remove this block if no screenshot is available.]*
+*Figure 1: [Briefly explain what the evidence demonstrates.]*
 
 **What I understood:**
 
