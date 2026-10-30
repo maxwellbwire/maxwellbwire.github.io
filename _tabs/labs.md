@@ -1,7 +1,7 @@
 ---
 title: Labs
 icon: fas fa-flask
-order: 2
+order: 3
 ---
 
 # Cybersecurity Labs & Practical Learning
