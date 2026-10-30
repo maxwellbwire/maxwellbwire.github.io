@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 I'm an IT and networking professional with 3+ years of hands-on experience in network administration, ISP field engineering, and technical support. My experience includes troubleshooting connectivity issues, maintaining network infrastructure, supporting end users, and working with networking equipment and security tools.I'm currently building on this foundation to move into cybersecurity, vulnerability assessment, and penetration testing. I'm developing my practical skills through cybersecurity training, hands-on labs, and security-focused projects.
